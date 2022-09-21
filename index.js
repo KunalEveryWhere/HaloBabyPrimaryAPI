@@ -10,8 +10,8 @@ const app = express(); app.use(cors()); app.use(express.json());
 
 let SupabaseAPIDeatils =  {
     "URLEndPoint": "https://vftxjowtqpqlbmqjiuyf.supabase.co",
-    "AnonPublicAPIKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZmdHhqb3d0cXBxbGJtcWppdXlmIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjM3NDE4OTQsImV4cCI6MTk3OTMxNzg5NH0._uLZvmlPSfeC50i8XvW-e6rX1kYFlLXE1mnBJTgbOBc",
-    "ServiceRoleAPIKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZmdHhqb3d0cXBxbGJtcWppdXlmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY2Mzc0MTg5NCwiZXhwIjoxOTc5MzE3ODk0fQ.gap99tALQ_gjLM7vWypbFZ8-ew1uwjCW58BgbOP38K4",
+    "AnonPublicAPIKey": "xxx.xxx.xxx",
+    "ServiceRoleAPIKey": "xx.xx.xx-xx",
     "contentType": "application/json"
 };
 
