@@ -1,0 +1,27 @@
+{
+  "name": "halobaby-primary-api",
+  "version": "0.0.1",
+  "description": "Primary API for HaloBaby Smart Cloths Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Smart",
+    "Clothes",
+    "API",
+    "Supabase",
+    "IoT",
+    "Emotions"
+  ],
+  "author": "KunalEveryWhere",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.6",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "supabase": "^1.4.7"
+  }
+}
